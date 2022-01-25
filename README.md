@@ -1,5 +1,7 @@
 # Introduction
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/39565dea-11f3-4b5e-8cd9-85389594b3c6.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/handbook?orgId=561911742905)  
+
 ### Rule of Optimization: Prototype before polishing. Get it working before you optimize it.
 
 ### Keeping It Clean, Keeping It Simple
